@@ -6,4 +6,4 @@
 
 ## External Imports
 
-- `main.py` -> fuzzywuzzy
+- `main.py` -> `fuzzywuzzy`
